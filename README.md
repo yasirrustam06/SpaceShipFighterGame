@@ -13,6 +13,5 @@
 ![Add a heading (8)](https://user-images.githubusercontent.com/98689629/192081146-03d6870a-fe4f-4900-a047-c10ee8d939a0.png) 
 
 
-![Space Ship Fighter Game](https://user-images.githubusercontent.com/98689629/192081148-0267cb7c-06c1-483b-9766-92929f15cd37.png)
 
 
